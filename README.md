@@ -9,3 +9,5 @@ Obtain a token at auth/token/login passing username and password form params aft
 You can go to /restaurant to view the logo from the static assets
 
 The db is set up to connect with root and '', so change it in settings.py if yours is different.
+
+Run python3 manage.py test to run the tests in restaurant/test.py
